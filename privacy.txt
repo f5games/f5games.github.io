@@ -1,67 +1,67 @@
-Google Play Gizlilik Politikası
+F5 Games Privacy Policy
 
-Tüm Kullanıcılarımızın gizliliği bizim için çok önemlidir. Bir Uygulama Kullanıcısı olarak Hizmetimizi kullandığınızda, (Uygulama Yayıncısı olarak) Kişisel Verilerinizi işleriz. Bu Gizlilik Bildirimi, Kişisel Verilerinizi nasıl koruduğumuzu ve işleme koyduğumuzu açıklar. Dikkatlice okumanızı öneririz.
-1. Bu Gizlilik Bildiriminde ne belirtilmiştir?
-Bu Gizlilik Bildirimindeki bölümler size aşağıdakiler hakkında bilgi verir:
-İşlenen Kişisel Verilerin türleri,
-Kişisel Verilerin işlenme amaçları,
-Kişisel Verilerin işlendiği yerler,
-Kişisel Verileri korumak için uygulanan güvenlik önlemleri,
-Üçüncü şahıslarla ilgili sorumluluk sınırları,
-Kişisel Verilerinizi görüntüleme, değiştirme ve silme,
-Bu Gizlilik Bildiriminde yapılan değişiklikler;
-Sorunuz veya açıklamalarınız varsa ne yapacaksınız?
-2. İşlenen Kişisel Verilerin türleri
-1.Hizmetimiz tarafından kullanılan Kişisel Veriler
-Hizmetimizi geliştirmek için Anonim Verileri kullanırız. Bu bilgiler, Hizmet aracılığıyla kamuya açıklanmayacaktır.
-1.Otomatik olarak oluşturulan bilgiler
-Çoğu diğer web siteleri ve çevrimiçi hizmetler gibi, Uygulamayı nasıl kullandığınızla ilgili olarak otomatik olarak üretilen bilgileri toplar ve işleriz. Toplanan bilgiler, ip adresinizi ve / veya benzersiz cihaz kimliğinizi içerir.
-Özellikle katılmayı seçerseniz, Uygulama, coğrafi konum bilgilerinizi toplayabilir. Her durumda, coğrafi konum bilginizin alınmasını mobil cihazınızın ayarlarından engelleyebilirsiniz.
-Sosyal ağ hesabınızdan bilgi erişimi ve toplama izni vermeyi özellikle tercih ederseniz, sosyal ağ hesabınızdaki temel kişisel bilgileriniz (adınız ve e-posta adresiniz gibi) ve ayrıca sosyal ağ kullanıcı kimliği ( şifreniz değil ) ve Uygulama aracılığıyla paylaştığınız yayınlarla ilgili parametreler. Erişilebilen ve alınabilecek bilgileri kontrol etmek için hesabınızın gizlilik tercihlerini nasıl ayarlayabileceğiniz hakkında daha fazla bilgi için lütfen sosyal ağın gizlilik politikasına bakın.
-Bu, aynı zamanda, Uygulamayı nasıl kullandığınıza ilişkin otomatik olarak oluşturulmuş bilgilerle ilgili olarak gerçekleşir. Bu tür bilgiler, Uygulamanın nasıl kullanıldığını daha iyi anlamamıza ve bir kullanıcı olarak ihtiyacınıza uygun hizmet üretmemize yardımcı olur.
-Uygulama içindeki kullanıcı yetkilendirme özelliklerini etkinleştirirseniz, aşağıdaki ek bilgiler saklanır:
-a. İsim,
-b. E-posta,
-c. Telefon numarası (isteğe bağlı);
-d. Facebook, Twitter, Google+ veya LinkedIn gibi harici bir sağlayıcı tarafından gönderilen ek profil bilgileri.
-Uygulama sahibine, uygulamanın kullanımı hakkında bilgi vermek için aşağıdaki (bilinmeyen) bilgileri de topluyoruz:
-a. Uygulamayı açtığınız an,
-b. Uygulamanın içinde açtığınız ekranlar ve bu ekranlarda harcadığınız süre,
-c. Uygulamadan ayrıldığınız an.
-Not: kullanıcı yetkilendirme özellikleri etkinleştirilmişse, giriş yaptığınızda anonim bilgileri sizin bilgilerinizle ilişkilendirebiliriz.
-1. Belirli Bilgiler
-Size sadakat kartı, haber bültenleri, reklamcılık gibi bazı etkinliklerle başvurmanız istenebilir; bu durumda bazı kişisel bilgiler istenir. Bu bilgiler, hizmetimizin (üçüncü şahıslar dahil) veritabanında saklanır ve bizimle paylaşılacaktır.
-Uygulamadaki fotoğraflar da dahil olmak üzere Veri yüklediğinizde, bu paylaşılacak ve uygulamanın diğer tüm kullanıcıları tarafından görülebilecektir.
-3. Kişisel Verilerin işlenme amaçları
-1. Amaçlar
-Taraflar Kişisel Verileri aşağıdaki amaçlarla işlemektedir:
-Hizmeti kullanabilmenizi sağlamak için,
-Hizmetimizle ilgili bilgileri güncel tutmak için,
-Hizmetin iyileştirilmesi ve / veya özelleştirilmesi için,
-Sizi tanımlamak / veya Hizmeti özelleştirmek için,
-Sizi tanımak ve dolandırıcılığı önlemek için,
-Destek sağlamak için,
-Kişisel Verilerinizi, bizden bunu talep ettiğiniz takdirde veya yasal olarak yükümlü olduğumuz durumlarda, üçüncü şahıslara iletmek.
-Kişisel Verilerin üçüncü şahıslara iletilmesi
-Sizden önceden izin alınmaksızın Kişisel Verilerinizi üçüncü şahıslara satmamaktayız, satmıyor veya kiralamıyoruz. Bununla birlikte, Ücretli Hizmetlerle ilgili ödeme sağlayıcıları aracılığıyla ödeme yapmak gibi Kişisel Verilerinizi size sağlama veya talimatları yerine getirmeniz açısından şart olduğu durumlarda, Kişisel Verilerinizi üçüncü taraflara sağlayabiliriz.
-Uygun olduğunu düşündüğümüz şekilde Hizmet’in bu tür amaçlar için üçüncü taraflara kullanımı hakkında “toplu anonim veriler” sağlayabiliriz. “Toplam anonim veriler”, size geri gönderilemeyen ve bu nedenle Kişisel Veriler olarak sayılmayan verilerdir. Örneğin, Kullanıcıların Hizmeti nasıl kullandığını daha iyi anlamak için toplu anonim verileri kullanabiliriz.
-Üçüncü bir tarafa geçtiğimiz veya bir üçüncü tarafla birleştiğimiz veya bir yeniden yapılandırmaya tabi olduğumuz durumda, Kişisel Verileriniz de üçüncü kişilere açıklanabilir ve / veya bu üçüncü kişiye devredilebilir. Bu üçüncü taraf, Kişisel Verileri ve bize sağladığınız diğer bilgileri kullanmaya devam etme hakkına sahip olacak.
-Kişisel Verilerinizi, iyi niyetle, bir mahkeme kararı, halen devam eden adli işlem, cezai veya sivil mahkeme celbi veya kolluk kuvveti makamları tarafından verilen diğer yasal işlem veya taleplere uymanız gerektiğine inandığımız yerlerde ifşa edebiliriz veya egzersiz yapabiliriz Yasal hakları veya yasal iddialara karşı savunmak.
-4. Kişisel Verilerin işlendiği yerler
-Hizmet kapsamında işlenen verilerin tutulduğu veri merkezileri değişik bölgelerde bulunmaktadır., Türkiye, İrlanda, Hollanda, Amerika Birleşik Devletleri bölgelerinde yer alan barındırma hizmetleri kullanılarak sağlanmaktadır. Bununla birlikte, işlenen Kişisel Veriler, bu ülkeler ve bölgeler dışında bir ülkede bulunan muhafaza sunucularına aktarılabilir ve depolanabilir. Kişisel Verilerinizin güvenli bir şekilde ve bu gizlilik politikasına uygun şekilde kullanılmasını sağlamak için makul ölçüde gerekli tüm adımları atacağız.
-5. Kişisel Verileri korumak için hangi güvenlik önlemleri uygulanmaktadır?
-Verilerinizin güvenliği ve diğer Kullanıcıların güvenliği bizim için çok önemlidir. Kişisel Verilerinizi kayıp ya da herhangi bir yasadışı işleme karşı korumak için teknik ve organizasyonel önlemler aldık. Aşağıdaki tedbirleri uyguladık: sunucularımızı güvenlik duvarları, SSL bağlantıları ve hassas verilerin şifrelenmesi yoluyla koruma. Bu liste ayrıntılı değildir.
-6. Üçüncü şahıslarla ilgili sorumluluk sınırları
-Hizmetimiz üçüncü taraflar tarafından sunulan hizmetler ve ürünler ve / veya ortakların, reklamverenlerin ve diğer üçüncü tarafların web sitelerine veya hizmetlerine köprüler içerebilir.
-Tarafların, bu üçüncü tarafların içeriği, web siteleri veya hizmetleri üzerinde herhangi bir kontrolü veya etkisi yoktur. Üçüncü kişi web sitelerinin ve hizmetlerinin kullanımı için farklı gizlilik politikaları uygulanabilir. Bu Gizlilik Beyanı, yalnızca taraflar tarafından Hizmeti kendi amaçları doğrultusunda kullanmanız yoluyla elde edilen Kişisel Verilerle ilgilidir. Taraflar, üçüncü taraf web sitelerinin ve hizmetlerin içeriği, uygulamaları veya işletilmesi ile ilgili herhangi bir sorumluluk kabul etmez.
-7. Kişisel Verileri Görüntüleme ve Silme
-Uygulamayı kullanarak toplanan kişisel bilgilere e-posta yoluyla bizimle iletişime geçmek veya silmek için bir istek gönderebilirsiniz. Kimliğinizi doğrulamak için ek bilgi sağlamanız istenebilir.
-8. Çocuk gizliliği
-Çocuklarla ilgili kişisel bilgiler bilerek veya kasıtlı olarak toplanmamaktadır.
-9. Güvenlik
-Kişisel bilgilerinizin güvenliğini sağlamak, hasar riskini en aza indirmek, bilgi kaybı ve yetkisiz erişimden veya bilgiyi kullanmak için önlemler uygulanmaktadır. Bununla birlikte, bu tedbirler mutlak bilgi güvenliği sağlayamamaktadır. Dolayısıyla, kişisel bilgilerinizin güvenliğini sağlamak için çaba sarf edilir, ancak bu garanti edilmez ve Uygulamanın ve ilgili veritabanlarının herhangi bir haksız davranış, arıza, izinsiz engeller veya erişim veya diğer kötüye kullanım ve kötüye kullanımdan muaf olacağını makul bir şekilde bekleyemezsiniz.
-10. Bu Gizlilik Bildiriminde Yapılan Değişiklikler
-Bu Beyan, herhangi bir zamanda güncellenebilir. Taraflar, Gizlilik Bildirimi’nin güncellenmiş bir sürümünü Hizmet aracılığıyla yayınlayacaktır. Taraflar, bu Gizlilik Bildirimi’nde yapacağı değişikliklerden haberdar olmak ve tarafların Kişisel Verilerinizi nasıl koruma altına alacakları konusunda bilgi sahibi olmak için bu sayfayı zaman zaman kontrol etmenizi önerir. Bu Gizlilik Bildirimini periyodik olarak gözden geçirmek ve güncellemeler hakkında bilgi sahibi olmak sizin sorumluluğunuzdadır ve kabul ve taahhüt eder.
-Bu Bildirimde yapılan değişikliklerin herhangi birine bağlı kalmayı kabul etmektesiniz. Değişiklik yürürlüğe girdikten sonra Uygulamayı kullanmaya devam etmeniz, değiştirilen Bildirim’i kabul ettiğinizi gösterecektir. Değiştirilen Bildirimi kabul etmiyorsanız, Uygulamayı kaldırmanız ve onu daha fazla kullanmaktan kaçınmanız gerekir.
-11. Herhangi bir sorunuz ya da açıklamalarınız varsa ne yapacaksınız?
-Bu Gizlilik Bildirimi ile ilgili herhangi bir sorunuz veya açıklamalarınız varsa, lütfen f5games01int@gmail.com’a e-posta göndererek bizimle iletişime geçin.
+The privacy of all our users is very important to us. When you use our Service as an Application User, we (as the Application Publisher) process your Personal Data. This Privacy Statement describes how we protect and process your Personal Data. We recommend that you read it carefully.
+1. What is stated in this Privacy Statement?
+The sections in this Privacy Statement provide you with information about the following:
+Types of Personal Data processed,
+Purposes of processing of Personal Data,
+Places where Personal Data are processed,
+Security measures applied to protect Personal Data,
+Limits of liability for third parties,
+Viewing, changing and deleting your Personal Data,
+Changes made to this Privacy Statement;
+What will you do if you have questions or explanations?
+2. Types of Personal Data Processed
+1.Personal Data used by our Service
+We use Anonymous Data to improve our Service. This information will not be disclosed to the public through the Service.
+1.Automatically generated information
+Like most other websites and online services, we collect and process automatically generated information about how you use the Application. The information collected includes your ip address and/or unique device ID.
+In particular, if you choose to participate, the Application may collect your geolocation information. In any case, you can prevent the receipt of your geolocation information from the settings of your mobile device.
+If you specifically prefer to grant permission to access and collect information from your social network account, your basic personal information in your social network account (such as your name and email address), as well as the social network user ID ( not your password ) and parameters related to the posts you share through the Application. For more information on how you can set the privacy preferences of your account to control the information that can be accessed and received, please refer to the privacy policy of the social network.
+This also happens in relation to automatically generated information about how you use the Application. Such information helps us to better understand how the Application is used and to produce services according to your needs as a user.
+If you enable the user authorization features within the application, the following additional information is stored October:
+a. Name,
+b. E-mail,
+c. Phone number (optional);
+d. October Facebook, Twitter, Google+ or LinkedIn, as well as additional profile information sent by an external provider such as.
+We also collect the following (unknown) information to inform the app owner about the use of the app:
+a. The moment you open the application,
+b. The screens that you open inside the application and the time you spend on these screens,
+c. The moment you leave the application.
+Note: If user authorization features are enabled, we may associate anonymous information with your information when you log in.
+1. Specific Information
+You may be asked to contact you with some activities, such as loyalty cards, newsletters, advertising; in this case, some personal information will be requested. This information is stored in the database of our service (including third parties) and will be shared with us.
+When you upload Data, including photos in the application, this will be shared and visible to all other users of the application.
+3. Purposes of processing of Personal Data
+1. Objectives
+The Parties process Personal Data for the following purposes:
+To ensure that you can use the service,
+To keep the information about our service up to date,
+For the improvement and /or customization of the service,
+To identify you/or customize the Service,
+To get to know you and prevent fraud,
+To provide support,
+To transfer your Personal Data to third parties if you request this from us or in cases where we are legally obliged to do so.
+Transfer of Personal Data to third parties
+We do not sell, sell or rent your Personal Data to third parties without your prior permission. Pays Paid Services, however, we may provide your Personal Data to third parties where it is necessary to provide you with your Personal Data or to fulfill the instructions, such as to make payments through payment providers related to Paid Services.
+We may provide “aggregated anonymous data” about the use of the Service for such purposes to third parties as we deem appropriate. "Total anonymous data" is data that cannot be sent back to you and therefore does not count as Personal Data. For example, we may use aggregated anonymous data to better understand how Users use the Service.
+In the event that we transfer to a third party or merge with a third party or are subject to a restructuring, your Personal Data may also be disclosed to third parties and/or transferred to that third party. This third party will have the right to continue using Personal Data and other information that you have provided to us.
+We may disclose or exercise legal rights or defend your Personal Data where we believe, in good faith, that you should comply with a court order, ongoing judicial action, criminal or civil subpoena, or other legal actions or requests issued by law enforcement authorities.
+4. Places where Personal Data are processed
+The data centers where the data processed within the scope of the Service are stored are located in different regions., is provided using hosting services located in the regions of Turkey, Ireland, the Netherlands, the United States. However, the processed Personal Data may be transferred and stored on storage servers located in a country other than these countries and regions. We will take all reasonably necessary steps to ensure that your Personal Data is used securely and in accordance with this privacy policy.
+5. What security measures are applied to protect Personal Data?
+The security of your data and the security of other Users are very important to us. We have taken technical and organizational measures to protect your Personal Data against loss or any illegal processing. We have implemented the following measures: protecting our servers through firewalls, SSL connections and encryption of sensitive data. This list is not exhaustive.
+6. Limits of liability for third parties
+Our Service may include services and products offered by third parties and/or hyperlinks to the websites or services of partners, advertisers and other third parties.
+The parties do not have any control or influence over the content, websites or services of these third parties. Different privacy policies may apply to the use of third-party websites and services. This Privacy Statement relates only to Personal Data obtained by the parties through your use of the Service for their own purposes. The parties do not accept any responsibility for the content, applications or operation of third-party websites and services.
+7. Viewing and Deleting Personal Data
+You can send a request to contact us by email or delete the personal information collected using the application. October You may be asked to provide additional information to verify your identity.
+8. Children's privacy
+Personal information about children is not collected knowingly or intentionally.
+9. Security
+Measures are being implemented to ensure the security of your personal information, minimize the risk of damage, loss of information and unauthorized access or use of information. However, these measures cannot provide absolute information security. Therefore, efforts are made to ensure the security of your personal information, but this is not guaranteed, and you cannot reasonably expect that the Application and its related databases will be exempt from any unfair behavior, malfunctions, unauthorized blocks or access, or other abuse and misuse.
+10. Changes Made to This Privacy Statement
+This Statement may be updated at any time. The Parties will publish an updated version of the Privacy Statement through the Service. The parties recommend that you check this page from time to time to be informed about changes to this Privacy Statement and to be informed about how the parties will protect your Personal Data. It is your responsibility to periodically review this Privacy Statement and keep informed about updates, and you accept and commit to it.
+You agree to be bound by any changes made to this Notice. If you continue to use the Application after the change takes effect, it will indicate that you accept the amended Notice. If you do not accept the changed Notification, you must uninstall the Application and refrain from using it further.
+11. If you have any questions or explanations, what will you do?
+If you have any questions or comments about this Privacy Statement, please f5games01int@gmail.com contact us by sending an e-mail to.
