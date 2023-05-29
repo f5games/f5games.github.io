@@ -1,2 +1,2 @@
 # f5games.github.io
-Welcome Game and App World. Enjoy!
+Welcome Games and Apps World. Enjoy!
